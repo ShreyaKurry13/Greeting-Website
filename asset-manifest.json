@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Greeting-Website/static/css/main.4b6ff2a7.css",
+    "main.js": "/Greeting-Website/static/js/main.b3962e4e.js",
+    "index.html": "/Greeting-Website/index.html",
+    "main.4b6ff2a7.css.map": "/Greeting-Website/static/css/main.4b6ff2a7.css.map",
+    "main.b3962e4e.js.map": "/Greeting-Website/static/js/main.b3962e4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b6ff2a7.css",
+    "static/js/main.b3962e4e.js"
+  ]
+}
